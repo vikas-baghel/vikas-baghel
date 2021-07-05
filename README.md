@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I work as an **Software Engineer** at **Google**. I am a graduate of the class of 2021 in Electrical Engineering from **Indian Institute of Technology (BHU) Varanasi**.
+<!-- I work as an **Software Engineer** at **Google**.  -->
+I am a graduate of the class of 2021 in Electrical Engineering from **Indian Institute of Technology (BHU) Varanasi**.
 
 ![](https://komarev.com/ghpvc/?username=vikas-baghel&color=blue)
 
